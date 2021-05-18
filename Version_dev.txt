@@ -1,4 +1,4 @@
 2.1.6.3
 What's new?
 *Bug fix example
-*Bug fix example
+*Bug fix example 2
