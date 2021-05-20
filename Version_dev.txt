@@ -1,10 +1,1 @@
 2.1.6.4
-----------------
-What's new?
-----------------
-*The response speed of the dynamic profiles up 3 times
-*EXTRA BOOST for PX subrofiles
-*Disabled dymanic mode for NON_CPPC profile
-*CO info during OB calculating
-*ON/OFF pop-up notiffication
-*Other changes
