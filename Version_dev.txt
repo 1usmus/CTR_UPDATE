@@ -1,6 +1,8 @@
-2.1.6.5
+2.1.6.6
 ----------------
 What's new?
 ----------------
-* Fix 1
-* Fix 2
+* Fix awakening after sleep (testing is required)
+* OB extra penalty at creation (additional -8, improved stability)
+* Additional penalty for creating P1/P2 profiles if VID are above 1175mV 
+* Increased penalty OB for 5950X in light load (improved stability)
