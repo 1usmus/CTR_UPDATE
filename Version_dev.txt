@@ -1,7 +1,9 @@
-2.1.6.7
+2.1.6.8
 ----------------
 What's new?
 ----------------
-* New rules for dynamic profiles (more aggressive frequency reduction)
-* Curve Optimizer info(OB calculation)
-* Waking up after sleep has been improved
+* Fixing PX subprofile switching
+* EXTRA BOOST disabled for PX HIGH
+* Overvoltage reboot fix
+* Fixed overboost for PX MID
+* Other minor changes
