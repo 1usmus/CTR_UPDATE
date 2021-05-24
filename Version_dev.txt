@@ -1,9 +1,11 @@
-2.1.6.8
+2.1.6.9
 ----------------
 What's new?
 ----------------
-* Fixing PX subprofile switching
-* EXTRA BOOST disabled for PX HIGH
-* Overvoltage reboot fix
-* Fixed overboost for PX MID
-* Other minor changes
+* Update the frequency setting function (frequency sticking fix, smoother switching).
+* Fixed overboost for PX HIGH,  (crash fix , testing is required).
+* Dynamic profiles ignore ultra-light or pulsating loads.
+* Fixed overboost for P1 and P2 in IBT and light load.
+* PX HIGH has advanced holding capability (NON_CPPC profile should not turn of disable PX_HIGH).
+* The mutex holding alert has been changed (now you will see it quite rarely).
+* Added rules for more effective frequency reduction.
