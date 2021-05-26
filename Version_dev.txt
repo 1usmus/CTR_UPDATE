@@ -1,8 +1,5 @@
-2.1.6.10.
+2.1.6.11.
 ----------------
 What's new?
 ----------------
-* Significant improvement stability.
-* Dynamic mode for NON_CPPC profile.
-* BOOST TESTER works with CTR HYBRID OC.
-* CO for Ryzen 9 5950X slightly changed.
+* Minor fix for auto-update
