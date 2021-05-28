@@ -3,4 +3,4 @@
 What's new?
 ----------------
 * Calibration for Dynamic profiles (frequency without fluctation)
-* OB CALCULATE fix for Ryzen 5 5600X* 
+* OB CALCULATE fix for Ryzen 5 5600X
