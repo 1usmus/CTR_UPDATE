@@ -1,0 +1,17 @@
+2.1.6.13.
+----------------
+What's new?
+----------------
+* Frequency fluctuations during dynamic profile operation are significantly reduced (updated rules for dynamic profiles).  
+* Improved prevention of frequency peaks in light load (overboost, which leads to crashing). 
+User intervention in the OB settings for PX HIGH is welcome to achieve better performance or stability. 
+If you encounter instability you can decrease the OB for PX HIGH (rarely for PX MID) by 18, try increasing the voltage for PX HIGH (1375 -> 1400, for example) 
+or increase the CPU LLC level. 
+* The profile holding settings have been changed. Profiles should not react to Windows thread manager stuttering.
+* Adjusting CO (Curve Optimizer) calculation for Ryzen 9 5950X.
+* Added basic support for AIDA64. Since this application does not use CPPC I cannot guarantee its stability.
+* Changed presentation of CO (Curve Optimizer) information (each value has either a minus sign or none).
+* Auto update does not want to work (fixed).
+* The debug information will only be available if the "NOTIFICATION" option is enabled. It is recommended to use only to find compatibility problems in the system.
+* Improved performance in some games and applications.
+* Other minor fixes and stability improvements.
