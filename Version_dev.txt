@@ -1,5 +1,6 @@
-2.1.6.11.
+2.1.6.13.
 ----------------
 What's new?
 ----------------
-* Minor fix for auto-update
+* Calibration for Dynamic profiles (frequency without fluctation)
+* OB CALCULATE fix for Ryzen 5 5600X* 
