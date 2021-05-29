@@ -1,6 +1,6 @@
-2.1.6.13.
+2.1.6.14.
 ----------------
 What's new?
 ----------------
-* Calibration for Dynamic profiles (frequency without fluctation)
-* OB CALCULATE fix for Ryzen 5 5600X
+* PX OB test
+* Checking a false error in Prime95 
