@@ -3,3 +3,4 @@
 What's new?
 ----------------
 * PX MID + LOW OB tests 
+* New settings for OB tests
