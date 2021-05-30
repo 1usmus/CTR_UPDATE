@@ -1,6 +1,5 @@
-2.1.6.14.
+2.1.6.15.
 ----------------
 What's new?
 ----------------
-* PX OB test
-* Checking a false error in Prime95 
+* PX MID + LOW OB tests 
