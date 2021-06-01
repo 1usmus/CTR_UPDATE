@@ -1,6 +1,7 @@
-2.1.6.15.
+2.1.6.17.
 ----------------
 What's new?
 ----------------
-* PX MID + LOW OB tests 
-* New settings for OB tests
+* Added auto game detection
+* Improved stability
+* Canged OB curve (diagnostic)
