@@ -1,7 +1,13 @@
-2.1.6.17.
+2.1.6.19.
 ----------------
 What's new?
 ----------------
-* Added auto game detection
 * Improved stability
-* Canged OB curve (diagnostic)
+* Fixed dynamic mode for P2
+* The penalty for increasing the frequency of PX profiles has been slightly reduced
+* Affinity dynamic profile (new iteration of the NON CPPC profile)
+* Improved saving of settings
+* Added NON CPPC statistic
+* Added the ability to configure the GAME profile activation trigger (GPU usage)
+* Prime95 fix (now always the number of threads is used, not cores)
+* Added Prime95 error check for TUNING and CHECK STABILITY
