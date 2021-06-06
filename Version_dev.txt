@@ -1,13 +1,7 @@
-2.1.6.19.
+2.1.6.20.
 ----------------
 What's new?
 ----------------
 * Improved stability
-* Fixed dynamic mode for P2
-* The penalty for increasing the frequency of PX profiles has been slightly reduced
-* Affinity dynamic profile (new iteration of the NON CPPC profile)
-* Improved saving of settings
-* Added NON CPPC statistic
-* Added the ability to configure the GAME profile activation trigger (GPU usage)
-* Prime95 fix (now always the number of threads is used, not cores)
-* Added Prime95 error check for TUNING and CHECK STABILITY
+* Increased frequency in the game profile
+* Disabing profiles when the app is closed
