@@ -1,17 +1,17 @@
-2.1.6.13.
+2.1.6.20.
 ----------------
 What's new?
 ----------------
-* Frequency fluctuations during dynamic profile operation are significantly reduced (updated rules for dynamic profiles).  
-* Improved prevention of frequency peaks in light load (overboost, which leads to crashing). 
-User intervention in the OB settings for PX HIGH is welcome to achieve better performance or stability. 
-If you encounter instability you can decrease the OB for PX HIGH (rarely for PX MID) by 18, try increasing the voltage for PX HIGH (1375 -> 1400, for example) 
-or increase the CPU LLC level. 
-* The profile holding settings have been changed. Profiles should not react to Windows thread manager stuttering.
-* Adjusting CO (Curve Optimizer) calculation for Ryzen 9 5950X.
-* Added basic support for AIDA64. Since this application does not use CPPC I cannot guarantee its stability.
-* Changed presentation of CO (Curve Optimizer) information (each value has either a minus sign or none).
-* Auto update does not want to work (fixed).
-* The debug information will only be available if the "NOTIFICATION" option is enabled. It is recommended to use only to find compatibility problems in the system.
-* Improved performance in some games and applications.
-* Other minor fixes and stability improvements.
+LibreHardwareMonitorLib.dll is required for the correct operation of the game profile (PATREON ARCHIVE)
+
+* Improving the performance of the dynamic P2 profile.
+* A slight increase in frequency for the GAME profile.
+* Fixed a bug, where some cores would get stuck at 550MHz while running the game profile.
+* The penalty for dynamic increasing the frequency of PX profiles has been slightly reduced.
+* When you close the application, the profiles stop working.
+* Improved saving of settings at any method of closing the application.
+* Added NON CPPC statistic (PROFILES tab).
+* Added the ability to configure the GAME profile activation trigger (GPU usage).
+* Added Prime95 error check for TUNING and CHECK STABILITY (fewer false errors).
+* Fixed a bug where Prime95 did not always engage all threads for the test.
+* Other minor improvements and optimizations.
