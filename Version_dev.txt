@@ -1,7 +1,7 @@
-2.1.6.20.
+2.1.6.22.
 ----------------
 What's new?
 ----------------
 * Improved stability
-* Increased frequency in the game profile
-* Disabing profiles when the app is closed
+* 2 booster presets for light load
+* OB during diagnostics increased
