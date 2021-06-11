@@ -1,17 +1,8 @@
-2.1.6.20.
+2.1.6.23.
 ----------------
 What's new?
 ----------------
-LibreHardwareMonitorLib.dll is required for the correct operation of the game profile (PATREON ARCHIVE)
-
-* Improving the performance of the dynamic P2 profile.
-* A slight increase in frequency for the GAME profile.
-* Fixed a bug, where some cores would get stuck at 550MHz while running the game profile.
-* The penalty for dynamic increasing the frequency of PX profiles has been slightly reduced.
-* When you close the application, the profiles stop working.
-* Improved saving of settings at any method of closing the application.
-* Added NON CPPC statistic (PROFILES tab).
-* Added the ability to configure the GAME profile activation trigger (GPU usage).
-* Added Prime95 error check for TUNING and CHECK STABILITY (fewer false errors).
-* Fixed a bug where Prime95 did not always engage all threads for the test.
+* ADDITIONAL STBILITY switcher. The light load booster is now isolated from the OB. 
+This allows you to increase the OB for PX (increased performance in medium and heavy load) as well as improve stability in light load.
+* Warning about corrupted configuration file and improved restoring it after restarting the application.
 * Other minor improvements and optimizations.
