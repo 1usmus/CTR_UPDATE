@@ -1,8 +1,7 @@
-2.1.6.23.
+2.1.6.24.
 ----------------
 What's new?
 ----------------
-* ADDITIONAL STBILITY switcher. The light load booster is now isolated from the OB. 
-This allows you to increase the OB for PX (increased performance in medium and heavy load) as well as improve stability in light load.
-* Warning about corrupted configuration file and improved restoring it after restarting the application.
+* Improved stability.
+* Improved CTR interaction with tray.
 * Other minor improvements and optimizations.
